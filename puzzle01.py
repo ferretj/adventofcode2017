@@ -1,5 +1,8 @@
 import sys
 
+# the trick is to create a shifted copy
+# of the input list and compare them
+# element-wise
 def solve_captcha_next(capt):
     cdelta = capt[1:] + capt[0]
     cpt = 0
@@ -8,7 +11,8 @@ def solve_captcha_next(capt):
             cpt += int(c)
     return cpt
 
-
+# same reasoning as in the first function
+# except shift is set to half the size of the input
 def solve_captcha_halfway(capt):
     h = len(capt) // 2
     cdelta = capt[h:] + capt[:h]

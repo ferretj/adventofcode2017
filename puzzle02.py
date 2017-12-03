@@ -1,6 +1,9 @@
 import sys
 
 
+# the function simply parses the input
+# into lists of ints and substract the
+# max and min of each list
 def spreadsheet_checksum(f):
     lines = f.readlines()
     cpt = 0
@@ -10,6 +13,12 @@ def spreadsheet_checksum(f):
     return cpt
 
 
+# first version of function to solve version b of problem
+# (see below for smarter function)
+#
+# parses the input into lists of ints and
+# for each element of the list checks divisions wrt to
+# all remaining elements
 def spreadsheet_checksum_evendiv_v1(f):
 
     def search_evendiv(digits, d, i, nd):
@@ -34,6 +43,14 @@ def spreadsheet_checksum_evendiv_v1(f):
     return cpt
 
 
+# parses the input into sorted lists of ints and
+# for each element of the sorted list checks divisions wrt to
+# all remaining elements
+#
+# checks that the following value is not equal to itself
+#
+# stops if a value that is smaller than twice its value is found
+# (for efficiency)
 def spreadsheet_checksum_evendiv_v2(f):
 
     def search_evendiv(digits, d, i, nd):

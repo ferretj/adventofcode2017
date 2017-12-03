@@ -4,7 +4,7 @@ Python scripts and test files containing solutions to the algorithmic problems p
 
 The solutions are briefly explained in comments inside the scripts.
 
-Challenges
+### Challenges
 
 * [Day 01: Inverse Captcha](puzzle01.py)
 * [Day 02: Corruption Checksum](puzzle02.py)
