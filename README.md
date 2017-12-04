@@ -9,3 +9,4 @@ The solutions are briefly explained in comments inside the scripts.
 * [Day 01: Inverse Captcha](puzzle01.py)
 * [Day 02: Corruption Checksum](puzzle02.py)
 * [Day 03: Spiral Memory](puzzle03.py)
+* [Day 04: High-Entropy Passphrases](puzzle04.py)
