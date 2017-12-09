@@ -73,7 +73,7 @@ if __name__ == '__main__':
     if int(sys.argv[1]) == 0:
         with open('data/puzzle06.txt', 'r') as input:
             with open('sols/puzzle06.txt', 'w') as f:
-                f.write(str(memory_reallocation_cycles(input, check=True)))
+                f.write(str(memory_reallocation_cycles(input)))
     elif int(sys.argv[1]) == 1:
         with open('data/puzzle06.txt', 'r') as input:
             with open('sols/puzzle06b.txt', 'w') as f:
