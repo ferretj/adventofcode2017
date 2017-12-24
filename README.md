@@ -16,3 +16,4 @@ The solutions are briefly explained in comments within the scripts.
 * [Day 08: I Heard You Like Registers](puzzle08.py)
 * [Day 09: Stream Processing](puzzle09.py)
 * [Day 10: Knot Hash](puzzle10.py)
+* [Day 11: Hex Ed](puzzle11.py)
