@@ -17,3 +17,4 @@ The solutions are briefly explained in comments within the scripts.
 * [Day 09: Stream Processing](puzzle09.py)
 * [Day 10: Knot Hash](puzzle10.py)
 * [Day 11: Hex Ed](puzzle11.py)
+* [Day 12: Digital Plumber](puzzle12.py)
