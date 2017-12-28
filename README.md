@@ -19,3 +19,4 @@ The solutions are briefly explained in comments within the scripts.
 * [Day 11: Hex Ed](puzzle11.py)
 * [Day 12: Digital Plumber](puzzle12.py)
 * [Day 13: Packet Scanners](puzzle13.py)
+* [Day 14: Disk Defragmentation](puzzle14.py)
