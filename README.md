@@ -21,3 +21,4 @@ The solutions are briefly explained in comments within the scripts.
 * [Day 13: Packet Scanners](puzzle13.py)
 * [Day 14: Disk Defragmentation](puzzle14.py)
 * [Day 15: Dueling Generators](puzzle15.py)
+* [Day 16: Permutation Promenade](puzzle16.py)
