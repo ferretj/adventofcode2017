@@ -22,3 +22,4 @@ The solutions are briefly explained in comments within the scripts.
 * [Day 14: Disk Defragmentation](puzzle14.py)
 * [Day 15: Dueling Generators](puzzle15.py)
 * [Day 16: Permutation Promenade](puzzle16.py)
+* [Day 17: Spinlock](puzzle17.py)
