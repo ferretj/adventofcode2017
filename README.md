@@ -23,3 +23,4 @@ The solutions are briefly explained in comments within the scripts.
 * [Day 15: Dueling Generators](puzzle15.py)
 * [Day 16: Permutation Promenade](puzzle16.py)
 * [Day 17: Spinlock](puzzle17.py)
+* [Day 18: Duet](puzzle18.py)
