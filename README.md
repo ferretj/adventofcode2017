@@ -24,3 +24,4 @@ The solutions are briefly explained in comments within the scripts.
 * [Day 16: Permutation Promenade](puzzle16.py)
 * [Day 17: Spinlock](puzzle17.py)
 * [Day 18: Duet](puzzle18.py)
+* [Day 19: A Series of Tubes](puzzle19.py)
