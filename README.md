@@ -26,3 +26,4 @@ The solutions are briefly explained in comments within the scripts.
 * [Day 18: Duet](puzzle18.py)
 * [Day 19: A Series of Tubes](puzzle19.py)
 * [Day 20: Particle Swarm](puzzle20.py)
+* [Day 21: Fractal Art](puzzle21.py)
