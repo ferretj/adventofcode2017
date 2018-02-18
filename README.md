@@ -27,3 +27,4 @@ The solutions are briefly explained in comments within the scripts.
 * [Day 19: A Series of Tubes](puzzle19.py)
 * [Day 20: Particle Swarm](puzzle20.py)
 * [Day 21: Fractal Art](puzzle21.py)
+* [Day 22: Sporifica Virus](puzzle22.py)
