@@ -28,3 +28,4 @@ The solutions are briefly explained in comments within the scripts.
 * [Day 20: Particle Swarm](puzzle20.py)
 * [Day 21: Fractal Art](puzzle21.py)
 * [Day 22: Sporifica Virus](puzzle22.py)
+* [Day 23: Coprocessor Conflagration](puzzle23.py)
