@@ -111,10 +111,10 @@ def calc_h(n_iter=10000000):
 if __name__ == '__main__':
 
     if int(sys.argv[1]) == 0:
-        with open('sols/puzzle23.txt', 'r') as f:
+        with open('sols/puzzle23.txt', 'w') as f:
             with open('data/puzzle23.txt', 'r') as input:
                 f.write(str(count_mul(input)))
-    if int(sys.argv[1]) == 0:
-        with open('sols/puzzle23b.txt', 'r') as f:
+    if int(sys.argv[1]) == 1:
+        with open('sols/puzzle23b.txt', 'w') as f:
             with open('data/puzzle23.txt', 'r') as input:
                 f.write(str(calc_h(input)))
