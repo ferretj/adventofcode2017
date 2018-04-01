@@ -1,6 +1,6 @@
 # adventofcode2017
 
-Python scripts and test files containing solutions to the algorithmic problems proposed by [Advent of Code 2017](https://adventofcode.com/2017/).
+Python scripts and test files containing solutions to all algorithmic problems proposed by [Advent of Code 2017](https://adventofcode.com/2017/).
 
 The solutions are briefly explained in comments within the scripts.
 
@@ -30,3 +30,4 @@ The solutions are briefly explained in comments within the scripts.
 * [Day 22: Sporifica Virus](puzzle22.py)
 * [Day 23: Coprocessor Conflagration](puzzle23.py)
 * [Day 24: Electromagnetic Moat](puzzle24.py)
+* [Day 25: The Halting Problem](puzzle25.py)
